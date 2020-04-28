@@ -1,8 +1,13 @@
 import React, { Component } from 'react';
+import { DivWrapper, H1Wrapper } from './styles';
 
 class Dashboard extends Component<any, any> {
   render() {
-    return <h1>Making it work</h1>;
+    return (
+      <DivWrapper>
+        <H1Wrapper>Making it work</H1Wrapper>
+      </DivWrapper>
+    );
   }
 }
 

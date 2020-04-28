@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --open --mode development",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "build": "webpack --mode production"
   },
   "keywords": [],
@@ -15,6 +16,7 @@
     "@babel/preset-env": "^7.9.5",
     "@babel/preset-react": "^7.9.4",
     "@babel/preset-typescript": "^7.9.0",
+    "@types/styled-components": "^5.1.0",
     "@types/webpack-env": "^1.15.2",
     "babel-loader": "^8.1.0",
     "html-loader": "^1.1.0",
@@ -33,6 +35,7 @@
     "@types/react-dom": "^16.9.7",
     "@types/react-router-dom": "^5.1.5",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.0"
   }
 }
