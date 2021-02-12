@@ -1,6 +1,6 @@
 # Typescript React Project Template
 
-This repo contains a bare minimum react Project. Without using create-react-app
+> a bare minimum Typescripted react Project. Without using create-react-app
 
 This contains:
 
