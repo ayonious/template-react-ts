@@ -4,7 +4,11 @@
 
 > a bare minimum Typescripted react Project. Without using create-react-app
 
-This contains:
+## 🤷 Why is this needed?
+
+This is a template project for me to bootstrap all other react projects. 
+
+## 🔍 This contains:
 
 1. Babbel
 2. Webpack
@@ -17,16 +21,16 @@ Also contains small tools:
 2. .gitignore
 3. renovate bot config
 
-# Running instruction
+## 🏃 Running instruction
 
-## Devmode
+### Devmode
 
 ```bash
 npm install
 npm run start
 ```
 
-## Make Production build
+### Make Production build
 
 ```bash
 npm install
