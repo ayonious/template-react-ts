@@ -1,5 +1,7 @@
 # Typescript React Project Template
 
+[![CircleCI](https://circleci.com/gh/ayonious/template-react-ts.svg?style=svg)](https://circleci.com/gh/ayonious/template-react-ts)
+
 > a bare minimum Typescripted react Project. Without using create-react-app
 
 This contains:
